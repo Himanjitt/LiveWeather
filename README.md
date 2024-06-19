@@ -1,5 +1,5 @@
 
-# Weather App
+# LiveWeather
 
 An application to check the weather in various cities, developed with HTML, CSS, JavaScript, and React JS, utilizing the OpenWeatherMap API for data fetching
 
